@@ -545,10 +545,18 @@
     - name: 青青草导航
       style: basic
       url: /go/Num-DH-00.html 
+      
+    - name: B多多导航
+      style: basic
+      url: /go/Num-DH-15.html 
+      
+    - name: 艾薇导航
+      style: basic
+      url: /go/Num-DH-14.html 
 
     - name: 窈窕淑女导航
       style: basic
-      url: https://lululu.rocks/      
+      url: https://lululu.rocks/        
       
     - name: 一休导航
       style: basic
@@ -596,15 +604,7 @@
       
     - name: 猪猪女导航 
       style: basic
-      url: /go/Num-DH-27.html
-      
-    - name: B多多导航
-      style: basic
-      url: /go/Num-DH-15.html 
-      
-    - name: 艾薇导航
-      style: basic
-      url: /go/Num-DH-14.html 
+      url: /go/Num-DH-27.html       
       
     - name: 爱萝莉导航
       style: basic
