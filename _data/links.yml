@@ -656,11 +656,7 @@
       
     - name: 打飞机导航
       style: basic
-      url: /go/Num-DH-23.html
-      
-    - name: 性福导航
-      style: basic
-      url: /go/Num-DH-04.html   
+      url: /go/Num-DH-23.html  
       
     - name: 色博士导航
       style: basic
@@ -676,11 +672,7 @@
       
     - name: 唐人社导航
       style: basic
-      url: /go/Num-DH-32.html
-
-    - name: 美国十次啦
-      style: basic
-      url: /go/Num-DH-25.html              
+      url: /go/Num-DH-32.html             
 
     - name: 爱撸导航
       style: basic
