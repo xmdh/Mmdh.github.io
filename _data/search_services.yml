@@ -1,19 +1,3 @@
-- id: jiujiucao
-  name: 久久草
-  url: https://www.jiujiucao.club/index.php?m=vod-search-wd-
-  suffix: ".html"
-  shortcut: 久久草
-  icon: yelp
-  style: blue
-  
-- id: yexiangjiao
-  name: 野香蕉
-  url: https://www.99xiangjiao.com/index.php?m=vod-search-wd-
-  suffix: ".html"
-  shortcut: 野香蕉
-  icon: google
-  style: orange
-
 - id: huas
   name: 花社
   url: https://huas.ooo/?s=
