@@ -261,6 +261,16 @@
   categories:
   - category: 在线视频
     links:
+       
+    - name: 成人帝国
+      icon: quora blue
+      style: basic
+      url: http://crdiguo.com   
+
+    - name: 色陛下
+      icon: youtube red
+      style: basic
+      url: http://sebixia.com
     
     - name: 花社
       icon: yelp pink          
@@ -461,13 +471,7 @@
       style: basic 
       url: /go/Num-AD-76.html 
       
-    - name: 天天色影
-      icon: tumblr olive
-      style: basic
-      url: /go/Num-SP-26.html
-      
     - name: 她也色视频
-      icon: stripe s teal
       style: basic
       url: /go/Num-SP-34.html
       
