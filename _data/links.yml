@@ -498,11 +498,11 @@
 
     - name: 有妖气导航
       style: basic
-      url: /go/Num-DH-01.html  
-      
-    - name: 银色导航
+      url: /go/Num-DH-01.html 
+
+    - name: 搜色吧导航
       style: basic
-      url: /go/Num-DH-08.html 
+      url: /go/Num-DH-04.html
       
     - name: 秘密入口
       icon: medium m pink
