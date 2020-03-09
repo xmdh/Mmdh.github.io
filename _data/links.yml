@@ -505,10 +505,6 @@
       
   - category: 福利导航
     links:
-    - name: 蓝导航
-      style: basic
-      url: /go/Num-DH-26.html 
-      
     - name: 小X福利导航
       icon: hire a helper teal
       style: basic
@@ -517,6 +513,10 @@
     - name: 藏姬阁导航
       style: basic
       url: /go/Num-DH-33.html 
+    
+    - name: 蓝导航
+      style: basic
+      url: /go/Num-DH-26.html                  
         
     - name: 136导航
       style: basic
