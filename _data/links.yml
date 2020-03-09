@@ -515,15 +515,14 @@
     - name: 有妖气导航
       style: basic
       url: /go/Num-DH-01.html 
+      
+    - name: 软妹导航
+      style: basic
+      url: /daohang/num-89.html
 
     - name: 搜色吧导航
       style: basic
-      url: /go/Num-DH-04.html
-      
-    - name: 秘密入口
-      icon: medium m pink
-      style: basic
-      url: /go/Num-DH-17.html  
+      url: /go/Num-DH-04.html   
       
     - name: 青青草导航
       style: basic
@@ -536,6 +535,11 @@
     - name: 艾薇导航
       style: basic
       url: /go/Num-DH-14.html 
+      
+    - name: 秘密入口
+      icon: medium m pink
+      style: basic
+      url: /go/Num-DH-17.html  
       
     - name: 美国十次啦
       style: basic
