@@ -550,9 +550,9 @@
       style: basic
       url: /go/Num-DH-04.html   
       
-    - name: 青青草导航
+    - name: 忘忧导航
       style: basic
-      url: /go/Num-DH-00.html 
+      url: /go/Num-DH-60.html
       
     - name: B多多导航
       style: basic
@@ -562,10 +562,14 @@
       style: basic
       url: /go/Num-DH-14.html 
       
+    - name: 青青草导航
+      style: basic
+      url: /go/Num-DH-00.html 
+      
     - name: 秘密入口
       icon: medium m pink
       style: basic
-      url: /go/Num-DH-17.html  
+      url: /go/Num-DH-17.html         
       
     - name: 美国十次啦
       style: basic
