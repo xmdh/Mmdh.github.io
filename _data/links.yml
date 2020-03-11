@@ -90,11 +90,6 @@
     - name: 鸡儿不放假
       style: purple
       url: /go/Num-AD-31.html   
-         
-    - name: 在线看苍老师
-      icon: pushed
-      style: purple
-      url: /go/Num-AD-43.html
 
     - name: 网红私密直播
       icon: pagelines
