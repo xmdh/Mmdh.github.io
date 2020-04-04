@@ -280,31 +280,25 @@
 - section: four
   categories:
   - category: 在线视频
-    links:
-       
+    links:       
     - name: 成人帝国
       icon: quora blue
       style: basic
-      url: /go/Num-SP-06.html   
-    
-    - name: 花社
-      icon: yelp pink          
-      style: basic
-      url: /go/Num-SP-05.html  
+      url: /go/Num-SP-06.html  
       
     - name: Xvideos
       icon: phoenix framework red
       style: basic
       url: /go/Num-SP-32.html
       
+    - name: 花社
+      icon: yelp pink          
+      style: basic
+      url: /go/Num-SP-05.html           
+      
     - name: 色陛下
       style: basic
-      url: /go/Num-SP-07.html  
-      
-    - name: 骑虎精品影视库
-      icon: sticker mule yellow
-      style: basic
-      url: /go/Num-SP-39.html         
+      url: /go/Num-SP-07.html                 
      
     - name: 软甜少女
       style: basic
@@ -320,11 +314,11 @@
 
     - name: 粉盛
       style: basic
-      url: /go/Num-SP-15.html       
-      
-    - name: 色美眉
-      style: basic
-      url: /go/Num-SP-60.html          
+      url: /go/Num-SP-15.html 
+
+    - name: 狼友汇
+      style: basic 
+      url: /go/Num-SP-27.html                        
       
     - name: 疯狂少女
       style: basic
@@ -358,13 +352,29 @@
       style: basic
       url: /go/Num-SP-11.html
       
+    - name: 易大师
+      style: basic
+      url: /go/Num-SP-34.html
+      
+    - name: MR.PLAYER
+      style: basic
+      url: /go/Num-SP-24.html
+      
+    - name: KOUBI8影视
+      style: basic
+      url: /go/Num-SP-26.html
+      
+    - name: 骑虎精品影视库
+      style: basic
+      url: /go/Num-SP-39.html 
+      
     - name: 91区
       style: basic
       url: /go/Num-SP-62.html  
       
     - name: 超级片社区
       style: basic
-      url: /go/Num-SP-10.html  
+      url: /go/Num-SP-10.html      
 
     - name: 超级硬先生
       style: basic
@@ -380,7 +390,11 @@
       
     - name: d2天堂视频
       style: basic
-      url: /go/Num-SP-17.html  
+      url: /go/Num-SP-17.html
+
+    - name: 色美眉
+      style: basic
+      url: /go/Num-SP-60.html       
       
     - name: 小花猫视频
       style: basic
@@ -392,11 +406,7 @@
       
     - name: 观阴楼
       style: basic
-      url: /go/Num-SP-01.html
-      
-    - name: 狼友汇
-      style: basic 
-      url: /go/Num-SP-27.html 
+      url: /go/Num-SP-01.html         
       
     - name: 左爱精品
       style: basic
@@ -509,10 +519,6 @@
     - name: 无码激射高清
       style: basic 
       url: /go/Num-AD-76.html 
-      
-    - name: 她也色视频
-      style: basic
-      url: /go/Num-SP-34.html
       
   - category: 福利导航
     links:
@@ -637,11 +643,7 @@
       
     - name: 骚货导航
       style: basic
-      url: /go/Num-DH-55.html 
-      
-    - name: 清风涩导航
-      style: basic
-      url: /go/Num-DH-56.html 
+      url: /go/Num-DH-55.html  
       
     - name: 喵AV导航
       style: basic
