@@ -519,7 +519,7 @@
       style: basic
       url: /go/Num-DH-60.html
       
-    - name: B多多导航
+    - name: 夜色导航
       style: basic
       url: /go/Num-DH-15.html 
       
@@ -527,18 +527,10 @@
       style: basic
       url: /go/Num-DH-61.html
       
-    - name: 艾薇导航
-      style: basic
-      url: /go/Num-DH-14.html 
-      
     - name: 青青草导航
       style: basic
       url: /go/Num-DH-00.html 
-      
-    - name: 亚瑟导航
-      style: basic
-      url: /go/Num-DH-11.html 
-      
+
     - name: 秘密入口
       icon: medium m pink
       style: basic
