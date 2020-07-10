@@ -334,7 +334,27 @@
 
     - name: FreeGet福利资讯
       style: basic
-      url: http://www.freeget.vip  
+      url: http://www.freeget.vip 
+
+    - name: MyAv生活
+      style: basic
+      url: https://myav.life   
+
+    - name: JavDove
+      style: basic
+      url: https://www.javdove.com   
+
+    - name: 五楼自拍
+      style: basic
+      url: https://www.porn5f.com    
+
+    - name: 秘密视频
+      style: basic
+      url: https://www.mmm999.buzz/
+      
+    - name: 性吧短视频
+      style: basic
+      url: https://xbdsp.xyz      
 
     - name: 8妹av
       style: basic
@@ -378,27 +398,7 @@
 
     - name: 色美眉
       style: basic
-      url: /go/Num-SP-60.html 
-
-    - name: MyAv生活
-      style: basic
-      url: https://myav.life   
-
-    - name: JavDove
-      style: basic
-      url: https://www.javdove.com   
-
-    - name: 五楼自拍
-      style: basic
-      url: https://www.porn5f.com    
-
-    - name: 秘密视频
-      style: basic
-      url: https://www.mmm999.buzz/
-      
-    - name: 性吧短视频
-      style: basic
-      url: https://xbdsp.xyz
+      url: /go/Num-SP-60.html
       
     - name: 左爱精品
       style: basic
