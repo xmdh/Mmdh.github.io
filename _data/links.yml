@@ -370,8 +370,16 @@
 
     - name: 超级硬先生
       style: basic
-      url: /go/Num-SP-13.html     
+      url: /go/Num-SP-13.html  
+
+    - name: 桃花堂
+      style: basic
+      url: https://thtmod.com/   
       
+    - name: BB网
+      style: basic
+      url: https://bgt5.xyz/
+           
     - name: KOUBI8影视
       style: basic
       url: /go/Num-SP-26.html
@@ -587,7 +595,7 @@
     - name: 秘密入口
       icon: medium m pink
       style: basic
-      url: /go/Num-DH-17.html         
+      url: /go/Num-DH-17.html     
 
     - name: 色吧导航
       style: basic
@@ -612,6 +620,10 @@
     - name: 思思福利导航
       style: basic
       url: /go/Num-DH-52.html
+      
+    - name: 稻米导航
+      style: basic
+      url: https://dmdh.xyz/  
 
     - name: 窈窕淑女导航
       style: basic
