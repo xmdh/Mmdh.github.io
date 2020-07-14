@@ -694,7 +694,11 @@
   categories:
      
   - category: 论坛博客
-    links:        
+    links:     
+    - name: 草原狼社区
+      style: basic
+      url: http://66.42.97.29
+    
     - name: 茜茜社区
       style: basic
       url: /go/LT-01.html 
