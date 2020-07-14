@@ -710,10 +710,6 @@
     - name: 心灵社区
       style: basic
       url: /go/LT-02.html
-      
-    - name: 葬花破处
-      style: basic
-      url: /go/Num-AD-06.html
   
   - category: 福利小说
     links:
@@ -732,6 +728,10 @@
       icon: node yellow
       style: basic
       url: /go/Num-Book-05.html
+      
+    - name: 肉文听声小说
+      style: basic
+      url: /go/Num-Book-06.html
     
     - name: 夜色小说
       icon: monero red
