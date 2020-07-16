@@ -705,23 +705,55 @@
     
     - name: 锁狼小说
       style: basic
-      url: /go/Num-Book-01.html
-      
-    - name: 藏书阁
-      style: basic
-      url: /go/Num-Book-05.html
+      url: /go/Num-Book-01.html  
       
     - name: 夜色小说
       style: basic
       url: /go/Num-Book-00.html
       
+    - name: H绝色小说
+      style: basic
+      url: /go/Num-Book-23.html
+      
+    - name: 歪传书屋
+      style: basic
+      url: /go/Num-Book-16.html
+      
+    - name: 18疯情小说
+      style: basic
+      url: /go/Num-Book-17.html
+      
+    - name: 藏书阁
+      style: basic
+      url: /go/Num-Book-05.html
+      
+    - name: H小说吧
+      style: basic
+      url: /go/Num-Book-19.html
+      
+    - name: 疯情书屋
+      style: basic
+      url: /go/Num-Book-20.html
+      
     - name: 淫荡文学
       style: basic
       url: /go/Num-Book-09.html
       
+    - name: 文学性吧
+      style: basic
+      url: /go/Num-Book-24.html
+      
     - name: 肉文听声小说
       style: basic
       url: /go/Num-Book-06.html
+      
+    - name: 青青草小说
+      style: basic
+      url: /go/Num-Book-21.html
+      
+    - name: 红叶小说
+      style: basic
+      url: /go/Num-Book-18.html
       
     - name: 离夏小说网
       style: basic
@@ -734,6 +766,10 @@
     - name: 藏精阁
       style: basic
       url: /go/Num-Book-08.html
+      
+    - name: 青青书屋
+      style: basic
+      url: /go/Num-Book-22.html
       
     - name: 蜜色小说
       style: basic
