@@ -799,6 +799,24 @@
       style: basic
       url: /go/Num-Book-15.html
       
+  - category: 极品美女写真
+    links:     
+    
+    - name: 优色美女
+      style: basic
+      url: /photos/Num-Photos-00.html
+    
+    - name: 月色美女网
+      style: basic
+      url: /photos/Num-Photos-01.html
+      
+    - name: VIP图集
+      style: basic
+      url: /photos/Num-Photos-02.html 
+
+    - name: 套图集
+      style: basic
+      url: /photos/Num-Photos-03.html       
      
   - category: 动漫ACG
     links:
