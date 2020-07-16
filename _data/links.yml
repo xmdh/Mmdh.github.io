@@ -709,35 +709,44 @@
     links:
     
     - name: 锁狼小说
-      icon: envira  purple
       style: basic
       url: /go/Num-Book-01.html
       
-    - name: 激情文学
-      icon: node yellow
+    - name: 藏书阁
       style: basic
       url: /go/Num-Book-05.html
+      
+    - name: 夜色小说
+      style: basic
+      url: /go/Num-Book-00.html
+      
+    - name: 淫荡文学
+      style: basic
+      url: /go/Num-Book-09.html
       
     - name: 肉文听声小说
       style: basic
       url: /go/Num-Book-06.html
-    
-    - name: 夜色小说
-      icon: monero red
+      
+    - name: 离夏小说网
       style: basic
-      url: /go/Num-Book-00.html
+      url: /go/Num-Book-10.html
+      
+    - name: 一色网
+      style: basic
+      url: /go/Num-Book-07.html
+      
+    - name: 藏精阁
+      style: basic
+      url: /go/Num-Book-08.html
       
     - name: 蜜色小说
-      icon: korvue orange
       style: basic
       url: /go/Num-Book-04.html    
       
     - name: BL文库
-      icon: leanpub black
       style: basic
       url: /go/Num-Book-03.html 
-
-   
          
      
   - category: 动漫ACG
