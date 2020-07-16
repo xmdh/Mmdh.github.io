@@ -326,7 +326,11 @@
 
     - name: FreeGet福利资讯
       style: basic
-      url: /videos/Num-SP-30.html    
+      url: /videos/Num-SP-30.html 
+
+    - name: 大波浪视频
+      style: basic
+      url: /videos/Num-SP-100.html 
 
     - name: JavDove
       style: basic
