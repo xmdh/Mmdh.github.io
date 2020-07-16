@@ -548,12 +548,7 @@
         
     - name: 136导航
       style: basic
-      url: /director/Num-DH-10.html
-
-    - name: AVCN导航
-      icon: hotjar red
-      style: basic
-      url: /director/Num-DH-16.html     
+      url: /director/Num-DH-10.html   
 
     - name: 有妖气导航
       style: basic
@@ -747,6 +742,34 @@
     - name: BL文库
       style: basic
       url: /go/Num-Book-03.html 
+      
+    - name: 高肉H小说网
+      style: basic
+      url: /go/Num-Book-11.html 
+      
+    - name: 不雅小说
+      style: basic
+      url: /go/Num-Book-12.html
+      
+    - name: 缠爱.TXT
+      style: basic
+      url: /go/Num-Book-12.html
+      
+    - name: 销魂阁
+      style: basic
+      url: /go/Num-Book-14.html
+      
+    - name: 爱爱书吧
+      style: basic
+      url: /go/Num-Book-15.html
+      
+      - name: BL文库
+      style: basic
+      url: /go/Num-Book-03.html
+      
+      - name: BL文库
+      style: basic
+      url: /go/Num-Book-03.html
          
      
   - category: 动漫ACG
