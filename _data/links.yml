@@ -704,6 +704,10 @@
       style: basic
       url: /novels/Num-Book-00.html
       
+    - name: 蜜色小说
+      style: basic
+      url: /novels/Num-Book-04.html   
+      
     - name: H绝色小说
       style: basic
       url: /novels/Num-Book-23.html
@@ -762,11 +766,7 @@
       
     - name: 青青书屋
       style: basic
-      url: /novels/Num-Book-22.html
-      
-    - name: 蜜色小说
-      style: basic
-      url: /novels/Num-Book-04.html    
+      url: /novels/Num-Book-22.html 
       
     - name: BL文库
       style: basic
