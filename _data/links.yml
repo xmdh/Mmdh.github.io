@@ -279,7 +279,15 @@
 
     - name: 可口可啪
       style: basic
-      url: /videos/Num-SP-19.html 
+      url: /videos/Num-SP-19.html
+      
+    - name: 快车视频
+      style: basic
+      url: /videos/Num-SP-29.html
+
+    - name: JavDove
+      style: basic
+      url: /videos/Num-SP-34.html      
       
     - name: 疯狂少女
       style: basic
@@ -288,10 +296,6 @@
     - name: 桃花堂
       style: basic
       url: /videos/Num-SP-41.html        
-
-    - name: 快车视频
-      style: basic
-      url: /videos/Num-SP-29.html
       
     - name: FreeGet福利资讯
       style: basic
@@ -299,11 +303,7 @@
 
     - name: 大波浪视频
       style: basic
-      url: /videos/Num-SP-100.html 
-
-    - name: JavDove
-      style: basic
-      url: /videos/Num-SP-34.html
+      url: /videos/Num-SP-100.html  
 
     - name: LP99成人影视
       style: basic
