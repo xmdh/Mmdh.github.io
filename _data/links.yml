@@ -297,7 +297,6 @@
       style: basic
       url: /videos/Num-SP-30.html 
 
-
     - name: 大波浪视频
       style: basic
       url: /videos/Num-SP-100.html 
@@ -308,7 +307,19 @@
 
     - name: LP99成人影视
       style: basic
-      url: /videos/Num-SP-46.html       
+      url: /videos/Num-SP-46.html 
+
+    - name: 金瓶梅
+      style: basic
+      url: /videos/Num-SP-9.html 
+
+    - name: 久久热
+      style: basic
+      url: /videos/Num-SP-12.html 
+
+    - name: 大众福利
+      style: basic
+      url: /videos/Num-SP-48.html       
 
     - name: 五楼自拍
       style: basic
