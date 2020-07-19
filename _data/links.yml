@@ -300,6 +300,10 @@
     - name: FreeGet福利资讯
       style: basic
       url: /videos/Num-SP-30.html 
+      
+    - name: 妇科视频
+      style: basic
+      url: /videos/Num-SP-62.html
 
     - name: 大波浪视频
       style: basic
