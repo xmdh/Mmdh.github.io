@@ -519,17 +519,17 @@
   - category: 福利导航
     links:
     - name: 小X福利导航
-      icon: star yellow
+      icon: fire red
       style: basic
       url: /director/Num-DH-31.html 
       
     - name: 藏姬阁导航   
-      icon: star yellow
+      icon: fire red
       style: basic
       url: /director/Num-DH-33.html 
     
     - name: 蓝导航
-      icon: star yellow
+      icon: fire red
       style: basic
       url: /director/Num-DH-26.html                  
         
