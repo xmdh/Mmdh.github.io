@@ -341,8 +341,12 @@
       
     - name: FreeGet福利资讯
       style: basic
-      url: /videos/Num-SP-30.html 
-      
+      url: /videos/Num-SP-30.html
+
+    - name: 极品呦女
+      style: basic
+      url: /videos/Num-SP-49.html
+
     - name: 妇科视频
       style: basic
       url: /videos/Num-SP-62.html
