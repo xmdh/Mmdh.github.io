@@ -66,7 +66,12 @@
     - name: 高清福利APP
       icon: hotjar red
       style: basic
-      url: /ads/Num-AD-69.html     
+      url: /ads/Num-AD-69.html 
+
+    - name: 聚鸟呦呦
+      icon: hotjar red
+      style: basic
+      url: /ads/Num-AD-01.html       
       
 - section: TWO
   categories:
