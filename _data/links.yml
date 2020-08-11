@@ -811,7 +811,7 @@
   - category: 福利小说
     links:
     
-    - name: 锁狼小说
+    - name: 锁狼书屋
       style: basic
       url: /novels/Num-Book-01.html  
       
@@ -831,7 +831,7 @@
       style: basic
       url: /novels/Num-Book-16.html
       
-    - name: 18疯情小说
+    - name: 18疯情
       style: basic
       url: /novels/Num-Book-17.html
       
@@ -855,19 +855,23 @@
       style: basic
       url: /novels/Num-Book-24.html
       
-    - name: 肉文听声小说
+    - name: 肉文听声
       style: basic
       url: /novels/Num-Book-06.html
       
-    - name: 青青草小说
+    - name: 青青草
       style: basic
       url: /novels/Num-Book-21.html
       
-    - name: 红叶小说
+    - name: 红叶
       style: basic
       url: /novels/Num-Book-18.html
       
-    - name: 离夏小说网
+    - name: BOBO文学
+      style: basic
+      url: /novels/Num-Book-25.html
+      
+    - name: 离夏网
       style: basic
       url: /novels/Num-Book-10.html
       
@@ -887,7 +891,7 @@
       style: basic
       url: /novels/Num-Book-03.html 
       
-    - name: 高肉H小说网
+    - name: 高肉H小说
       style: basic
       url: /novels/Num-Book-11.html 
       
