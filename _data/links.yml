@@ -339,7 +339,7 @@
       
     - name: 快车
       style: basic
-      url: /videos/Num-SP-29.html
+      url: /videos/Num-SP-64.html
 
     - name: 番号鸽
       style: basic
@@ -839,10 +839,6 @@
       style: basic
       url: /novels/Num-Book-05.html
       
-    - name: H小说吧
-      style: basic
-      url: /novels/Num-Book-19.html
-      
     - name: 疯情书屋
       style: basic
       url: /novels/Num-Book-20.html
@@ -870,10 +866,6 @@
     - name: BOBO文学
       style: basic
       url: /novels/Num-Book-25.html
-      
-    - name: 离夏网
-      style: basic
-      url: /novels/Num-Book-10.html
       
     - name: 一色网
       style: basic
