@@ -447,10 +447,11 @@
       
   - category: 福利导航
     links:
-    - name: 小X
+    
+    - name: 找AV123
       icon: fire red
       style: basic
-      url: /director/Num-DH-31.html 
+      url: /director/Num-DH-62.html
       
     - name: 藏姬阁 
       icon: fire red
@@ -640,7 +641,11 @@
 
     - name: 芒果
       style: basic
-      url: /director/Num-DH-34.html       
+      url: /director/Num-DH-34.html    
+     
+    - name: 小X
+      style: basic
+      url: /director/Num-DH-31.html       
 
 - section: THREE
   categories:
