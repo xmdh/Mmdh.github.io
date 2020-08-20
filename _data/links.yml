@@ -220,7 +220,12 @@
     - name: 极品呦呦外流
       icon: hotjar red
       style: basic
-      url: /ads/Num-AD-12.html    
+      url: /ads/Num-AD-12.html 
+
+    - name: 成人版抖音
+      icon: hotjar red
+      style: basic
+      url: /videos/Num-SP-06.html      
     
     - name: JOKER撸
       style: basic
