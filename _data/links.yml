@@ -278,11 +278,7 @@
       
     - name: 色房影视
       style: basic
-      url: /videos/Num-SP-71.html 
-
-    - name: 花社
-      style: basic
-      url: /videos/Num-SP-44.html      
+      url: /videos/Num-SP-71.html          
       
     - name: 成人帝国
       style: basic
@@ -299,14 +295,14 @@
     - name: 快车
       style: basic
       url: /videos/Num-SP-64.html
+      
+    - name: 咔哩弹幕
+      style: basic
+      url: /videos/Num-SP-53.html
 
     - name: 番号鸽
       style: basic
-      url: /videos/Num-SP-34.html      
-      
-    - name: 疯狂少女
-      style: basic
-      url: /videos/Num-SP-27.html      
+      url: /videos/Num-SP-34.html                   
       
     - name: FreeGet福利资讯
       style: basic
@@ -318,24 +314,28 @@
 
     - name: 极品呦女
       style: basic
-      url: /videos/Num-SP-49.html   
-      
-    - name: 咔哩弹幕
+      url: /videos/Num-SP-49.html         
+           
+    - name: X福利社
       style: basic
-      url: /videos/Num-SP-53.html 
-
-    - name: 大波浪
-      style: basic
-      url: /videos/Num-SP-100.html  
+      url: /videos/Num-SP-15.html  
 
     - name: LP99成人影视
       style: basic
       url: /videos/Num-SP-46.html 
       
-    - name: X福利社
+    - name: 肉欲
       style: basic
-      url: /videos/Num-SP-15.html
+      url: /videos/Num-SP-20.html 
 
+    - name: 花社
+      style: basic
+      url: /videos/Num-SP-44.html 
+
+    - name: 疯狂少女
+      style: basic
+      url: /videos/Num-SP-27.html        
+    
     - name: DDDER
       style: basic
       url: /videos/Num-SP-72.html       
@@ -344,12 +344,15 @@
       style: basic
       url: /videos/Num-SP-36.html
       
+    - name: 大波浪
+      style: basic
+      url: /videos/Num-SP-100.html  
+      
     - name: 成人妇科
       style: basic
       url: /videos/Num-SP-62.html
 
     - name: Xvideos
-      icon: phoenix framework red
       style: basic
       url: /videos/Num-SP-32.html 
       
@@ -545,7 +548,15 @@
 
     - name: kk
       style: basic
-      url: /director/Num-DH-29.html               
+      url: /director/Num-DH-29.html  
+
+    - name: 小表妹
+      style: basic
+      url: /director/Num-DH-35.html     
+      
+    - name: 悠悠
+      style: basic
+      url: /director/Num-DH-36.html       
       
     - name: 夜色
       style: basic
