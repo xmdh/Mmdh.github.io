@@ -170,6 +170,11 @@
   categories:
   - category: 随机站点
     links:
+    
+    - name: 镇江门事件
+      icon: thumbs up red
+      style: basic
+      url: /ads/Num-AD-03.html
       
     - name: 迪卡侬潮喷门
       style: basic
@@ -526,7 +531,7 @@
       
     - name: 樱桃
       style: basic
-      url: /director/Num-DH-61.html   
+      url: /director/Num-DH-58.html   
 
     - name: kk
       style: basic
