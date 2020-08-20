@@ -76,7 +76,12 @@
     - name: 芒果视频APP
       icon: hotjar red
       style: basic
-      url: /ads/Num-AD-02.html           
+      url: /ads/Num-AD-02.html 
+      
+    - name: 成人AV大全
+      icon: hotjar red
+      style: basic
+      url: /ads/Num-AD-08.html       
       
 - section: TWO
   categories:
