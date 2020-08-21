@@ -809,7 +809,27 @@
       url: /novels/Num-Book-15.html
       
   - category: 极品美女写真
-    links:     
+    links:   
+
+    - name: 每日精美裸图
+      style: basic
+      url: /photos/Num-Photos-05.html 
+      
+    - name: 真实自拍图库
+      style: basic
+      url: /photos/Num-Photos-06.html 
+      
+    - name: ins网红套图
+      style: basic
+      url: /photos/Num-Photos-07.html  
+      
+    - name: 物恋传媒
+      style: basic
+      url: /photos/Num-Photos-08.html  
+      
+    - name: Pans时尚摄影
+      style: basic
+      url: /photos/Num-Photos-09.html         
     
     - name: 优色美女
       style: basic
