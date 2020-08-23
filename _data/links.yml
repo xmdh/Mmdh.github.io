@@ -181,7 +181,7 @@
       style: basic
       url: /ads/Num-AD-50.html
          
-- section: three
+- section: THREE
   categories:
   - category: 随机站点
     links:
@@ -192,10 +192,6 @@
       url: /ads/Num-AD-03.html
       
     - name: 迪卡侬潮喷门
-      style: basic
-      url: /go/go.html
-      
-    - name: 温婉不雅视频
       style: basic
       url: /go/go.html
       
@@ -214,10 +210,6 @@
     - name: 小狐仙VIP视频
       style: basic
       url: /go/go.html
-
-    - name: 陈曦大尺度视频
-      style: basic
-      url: /go/go.html
       
     - name: 抖音爱露露22段
       style: basic
@@ -227,7 +219,7 @@
       style: basic
       url: /go/go.html
       
-- section: four
+- section: FOUR
   categories:
   - category: 流量交换区(随机跳转)
     links:     
@@ -256,7 +248,7 @@
       style: basic
       url: /ipexchange/EXIP.html            
 
-- section: five
+- section: FIVE
   categories:
   - category: 在线视频
     links:  
@@ -725,7 +717,7 @@
       style: basic
       url: /director/Num-DH-31.html       
 
-- section: THREE
+- section: SIX
   categories:
      
   - category: 论坛博客
