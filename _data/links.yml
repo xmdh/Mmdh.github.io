@@ -226,8 +226,37 @@
     - name: 辜怡媃视频门
       style: basic
       url: /go/go.html
-
+      
 - section: four
+  categories:
+  - category: 流量交换区(随机跳转)
+    links:     
+
+    - name: 随机入口
+      style: basic
+      url: /ipexchange/EXIP.html      
+
+    - name: 随机入口
+      style: basic
+      url: /ipexchange/EXIP.html      
+
+    - name: 随机入口
+      style: basic
+      url: /ipexchange/EXIP.html 
+
+    - name: 随机入口
+      style: basic
+      url: /ipexchange/EXIP.html      
+
+    - name: 随机入口
+      style: basic
+      url: /ipexchange/EXIP.html  
+
+    - name: 随机入口
+      style: basic
+      url: /ipexchange/EXIP.html            
+
+- section: five
   categories:
   - category: 在线视频
     links:  
