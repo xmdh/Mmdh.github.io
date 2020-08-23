@@ -606,11 +606,7 @@
 
     - name: 十里香
       style: basic
-      url: /director/Num-DH-16.html  
-      
-    - name: 王者
-      style: basic
-      url: /director/Num-DH-59.html
+      url: /director/Num-DH-16.html   
             
     - name: 魔爵
       style: basic
