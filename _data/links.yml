@@ -221,35 +221,6 @@
       
 - section: FOUR
   categories:
-  - category: 流量交换区(随机跳转)
-    links:     
-
-    - name: 随机入口
-      style: basic
-      url: /ipexchange/EXIP.html      
-
-    - name: 随机入口
-      style: basic
-      url: /ipexchange/EXIP.html      
-
-    - name: 随机入口
-      style: basic
-      url: /ipexchange/EXIP.html 
-
-    - name: 随机入口
-      style: basic
-      url: /ipexchange/EXIP.html      
-
-    - name: 随机入口
-      style: basic
-      url: /ipexchange/EXIP.html  
-
-    - name: 随机入口
-      style: basic
-      url: /ipexchange/EXIP.html            
-
-- section: FIVE
-  categories:
   - category: 在线视频
     links:  
 
@@ -717,7 +688,7 @@
       style: basic
       url: /director/Num-DH-31.html       
 
-- section: SIX
+- section: FIVE
   categories:
      
   - category: 论坛博客
@@ -1290,3 +1261,13 @@
     - name: 斗鱼
       style: basic
       url: https://www.douyu.com/
+
+- section: SIX
+  categories:
+  - category: 流量交换区(随机跳转)
+    links:     
+
+    - name: 随机入口
+      style: basic
+      url: /ipexchange/EXIP.html      
+         
