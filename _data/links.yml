@@ -80,7 +80,12 @@
     - name: 成人AV大全
       icon: hotjar red
       style: basic
-      url: /ads/Num-AD-08.html       
+      url: /ads/Num-AD-08.html 
+
+    - name: 李小璐明星门
+      icon: hotjar red
+      style: basic
+      url: /ads/Num-AD-10.html       
       
 - section: TWO
   categories:
