@@ -2,6 +2,12 @@
   categories:
   - category: 精选视频APP推荐
     links:
+
+    - name: 麻豆视频无码版
+      icon: hotjar red
+      style: basic
+      url: /ads/Num-AD-10.html
+
     - name: 免费AV撸管
       icon: hotjar red
       style: basic
@@ -16,7 +22,12 @@
       icon: hotjar red
       style: basic
       url: /ads/Num-AD-24.html 
-      
+
+    - name: 搜淫资源合集
+      icon: hotjar red
+      style: basic
+      url: /ads/Num-AD-04.html
+   
     - name: 成人软件破解大全
       icon: hotjar red
       style: basic
@@ -236,12 +247,7 @@
     - name: 成人版抖音
       icon: hotjar red
       style: basic
-      url: /videos/Num-SP-06.html   
-
-    - name: D2无码资源APP
-      icon: hotjar red
-      style: basic 
-      url: /ads/Num-AD-09.html      
+      url: /videos/Num-SP-06.html      
     
     - name: JOKER撸
       style: basic
