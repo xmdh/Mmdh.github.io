@@ -315,11 +315,7 @@
            
     - name: X福利社
       style: basic
-      url: /videos/Num-SP-15.html
-
-    - name: SWA
-      style: basic
-      url: /videos/Num-SP-73.html      
+      url: /videos/Num-SP-15.html       
 
     - name: LP99成人影视
       style: basic
@@ -379,7 +375,7 @@
 
     - name: 唇唇欲动
       style: basic
-      url: /videos/Num-SP-55.html       
+      url: /videos/Num-SP-55.html 
 
     - name: YOYO
       style: basic
@@ -411,7 +407,11 @@
       
     - name: 淘鸡鸡
       style: basic
-      url: /videos/Num-SP-17.html  
+      url: /videos/Num-SP-17.html 
+
+    - name: SWA
+      style: basic
+      url: /videos/Num-SP-73.html       
       
     - name: 爱神成人
       style: basic
