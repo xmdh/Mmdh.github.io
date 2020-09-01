@@ -303,7 +303,7 @@
       
     - name: FreeGet福利资讯
       style: basic
-      url: /videos/Num-SP-30.html
+      url: /videos/Num-SP-30.html       
 
     - name: BB网
       style: basic
@@ -315,7 +315,11 @@
            
     - name: X福利社
       style: basic
-      url: /videos/Num-SP-15.html  
+      url: /videos/Num-SP-15.html
+
+    - name: SWA
+      style: basic
+      url: /videos/Num-SP-73.html      
 
     - name: LP99成人影视
       style: basic
