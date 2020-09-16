@@ -315,8 +315,12 @@
 
     - name: 番号鸽
       style: basic
-      url: /videos/Num-SP-34.html                   
-      
+      url: /videos/Num-SP-34.html 
+
+    - name: 五楼自拍
+      style: basic
+      url: /videos/Num-SP-37.html    
+          
     - name: FreeGet福利资讯
       style: basic
       url: /videos/Num-SP-30.html       
