@@ -512,10 +512,6 @@
       style: basic
       url: /director/Num-DH-62.html
       
-    - name: 有妖气
-      style: basic
-      url: /director/Num-DH-01.html 
-      
     - name: 樱桃
       style: basic
       url: /director/Num-DH-58.html   
@@ -530,7 +526,11 @@
       
     - name: 悠悠
       style: basic
-      url: /director/Num-DH-36.html       
+      url: /director/Num-DH-36.html 
+
+    - name: B多多
+      style: basic
+      url: /director/Num-DH-46.html       
       
     - name: 夜色
       style: basic
