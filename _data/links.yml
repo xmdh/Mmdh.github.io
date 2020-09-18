@@ -660,10 +660,11 @@
   categories:
      
   - category: 论坛博客
-    links:     
-    - name: 草原狼社区
+    links: 
+
+    - name: Sex8性吧论坛
       style: basic
-      url: /go/LT-02.html
+      url: https://xn--88-ff8ct7p.com/a/158932038
     
     - name: 茜茜社区
       style: basic
@@ -679,6 +680,10 @@
     - name: 锁狼书屋
       style: basic
       url: /novels/Num-Book-01.html  
+      
+    - name: 性吧情爱小说
+      style: basic
+      url: https://xn--88-ff8ct7p.com/books.html/?pro=158932054  
       
     - name: 夜色小说
       style: basic
