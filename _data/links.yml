@@ -268,6 +268,31 @@
       icon: hotjar red
       style: basic
       url: /ads/Num-AD-150.html
+      
+    - name: 爱色色
+      icon: hotjar red
+      style: basic
+      url: /ads/Num-AD-14.html
+      
+    - name: 撸宝宝
+      icon: hotjar red
+      style: basic
+      url: /ads/Num-AD-15.html
+      
+    - name: 国产自拍
+      icon: hotjar red
+      style: basic
+      url: /ads/Num-AD-16.html
+      
+    - name: 色妹妹
+      icon: hotjar red      
+      style: basic
+      url: /ads/Num-AD-17.html
+      
+    - name: 国内N号房
+      icon: hotjar red
+      style: basic
+      url: /ads/Num-AD-18.html
     
     - name: JOKER撸
       style: basic
@@ -464,7 +489,7 @@
       url: /director/Num-DH-26.html                  
         
     - name: 136
-      icon: star yellow
+      icon: fire red
       style: basic
       url: /director/Num-DH-10.html  
 
@@ -559,6 +584,14 @@
     - name: 狼
       style: basic
       url: /director/Num-DH-65.html
+      
+    - name: 色邻居
+      style: basic
+      url: /director/Num-DH-66.html     
+      
+    - name: 黄金屋
+      style: basic
+      url: /director/Num-DH-67.html 
       
     - name: 冰点
       style: basic
