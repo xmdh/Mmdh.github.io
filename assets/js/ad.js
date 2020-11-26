@@ -24,7 +24,7 @@ flag=false;
 }
 }
 if(flag){
-document.writeln("<div align='center'><a href=\'http://www.mmfldh.cc\' target=\'_blank\' ><img src=\'https://wx3.sinaimg.cn/mw690/0060lm7Tly1ftiu9zkxy9j30rs01fq3d.jpg\'width=\'80%\'></a><\/div>");//zhaozu
+
 
 }else{
 
